@@ -1,0 +1,23 @@
+{
+  "name": "hexynth",
+  "version": "0.0.1",
+  "description": "Hexynth",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaGerber/hexynth.git"
+  },
+  "keywords": [
+    "music",
+    "synth"
+  ],
+  "author": "Anna Gerber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnnaGerber/hexynth/issues"
+  },
+  "homepage": "https://github.com/AnnaGerber/hexynth#readme",
+  "dependencies": {
+    "johnny-five": "^0.9.18"
+  }
+}
